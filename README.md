@@ -1,4 +1,4 @@
-# THRCC A Department Blog
+# THRC CA Department Blog
 
 This repository contains the official BCA & MCA Department Blog of  
 **Thanthai Hans Roever College**.
